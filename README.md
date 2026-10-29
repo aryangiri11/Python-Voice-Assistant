@@ -26,12 +26,12 @@ This is a beginner-level project
 
 This project helped me learn Python programming, speech recognition, and automation.
 
-#Output Screenshots
- 1.Current Time
- ![date output] (date.jpeg)
+##Output Screenshots
+ ###1.Current Time
+ ![Date Output] (date.jpeg)
 
 
- 2.Opening Google
+###2.Opening Google
  ![google output] (google.jpeg)
  
 
