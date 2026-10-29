@@ -1,5 +1,6 @@
 # Python-Voice-Assistant
-A Python-based voice assistant that listens to voice commands and performs tasks.
+A Python-based voice assistant that listens to voice commands and performs tasks
+This is a beginner-level project
 
 #Requirements
 
