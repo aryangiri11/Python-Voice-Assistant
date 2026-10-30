@@ -38,6 +38,8 @@ This project helped me learn Python programming, speech recognition, and automat
    
   ## Output Screenshots
   ### Date
+
+  
    ![Date output](date.jpeg)
 
 
