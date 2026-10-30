@@ -2,19 +2,19 @@
 A Python-based voice assistant that listens to voice commands and performs tasks
 This is a beginner-level project
 
-#Requirements
+# Requirements
 
 1.python 3.13
 2.microphone
 3.Required Libraries
 
-#Features
+# Features
 
 - Opens Google in a web browser
 - Opens YouTube
 - Tells the current time
 
-#Technologies Used
+# Technologies Used
 
 - Python
 - SpeechRecognition
@@ -22,15 +22,31 @@ This is a beginner-level project
 - Webbrowser
 - Datetime
 
-#Purpose
+# Purpose
 
 This project helped me learn Python programming, speech recognition, and automation.
 
 
  
 
-#How to Run
+# How to Run
 
 1. Install the required Python libraries.
 2. Run the Python file.
 3. Speak a command and let the assistant perform the task.
+
+   
+  ## Output Screenshots
+
+### Date
+
+
+![Date output](date.jpeg)
+
+
+
+### Google Search
+
+
+![Google output](google.jpeg)
+   
