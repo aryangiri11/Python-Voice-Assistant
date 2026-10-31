@@ -40,7 +40,7 @@ This project helped me learn Python programming, speech recognition, and automat
   ### Time
 
   
-  ![Time output](time.jpeg)
+  ![time output](time.jpeg)
 
 
 
