@@ -40,12 +40,12 @@ This project helped me learn Python programming, speech recognition, and automat
   ### Time
 
   
-  ![Time output](time.jpeg)
+  ![Time output](screenshots/time.jpeg)
 
 
 
 ### Google Search
 
 
-![Google output](google.jpeg)
+![Google output](screenshots/google.jpeg)
    
