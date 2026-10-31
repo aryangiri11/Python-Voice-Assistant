@@ -37,10 +37,10 @@ This project helped me learn Python programming, speech recognition, and automat
 
    
   ## Output Screenshots
-  ### Date 
+  ### Time
 
   
-  ![Date output](date.jpeg)
+  ![Time output](time.jpeg)
 
 
 
